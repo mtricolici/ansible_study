@@ -1,0 +1,1 @@
+192.168.33.33 ansible_user=vagrant ansible_ssh_private_key_file=testing-vm/.kitchen/kitchen-vagrant/kitchen-testing-vm-default-centos-65/.vagrant/machines/default/virtualbox/private_key
